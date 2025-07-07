@@ -2,7 +2,7 @@
 - 👀 I’m interested in designing good websites that are impressions of my imagination
 - 🌱 I’m currently learning sveltekit
 - 💞️ I’m looking to collaborate on designing components and websites
-- 📫 How to reach me - sameer.akhtar.52.sa@gmail.com
+- 📫 How to reach me - sameerakhtar1801@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: "Good design is invisible, seamlessly enhancing user experiences while bad design screams for attention, disrupting functionality."-chatGPT
 
