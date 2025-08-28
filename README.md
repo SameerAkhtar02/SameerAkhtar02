@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SameerAkhtar02
-- 👀 I’m interested in designing good websites that are impressions of my imagination
+- 👀 I’m interested in designing good websites that solve real user problems
 - 🌱 I’m currently learning sveltekit
 - 💞️ I’m looking to collaborate on designing components and websites
 - 📫 How to reach me - sameerakhtar1801@gmail.com
